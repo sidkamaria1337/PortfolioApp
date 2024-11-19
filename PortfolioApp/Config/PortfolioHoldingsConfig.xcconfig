@@ -1,0 +1,11 @@
+//
+//  PortfolioHoldingsConfig.xcconfig
+//  PortfolioApp
+//
+//  Created by Siddharth Kamaria on 18/11/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PORTFOLIO_HOLDINGS_BASE_URL=35dee773a9ec441e9f38d5fc249406ce.api.mockbin.io

@@ -1,0 +1,126 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "currentValueKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Value*"
+          }
+        }
+      }
+    },
+    "ltpKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LTP:"
+          }
+        }
+      }
+    },
+    "missingBaseURLMessage" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missing Portfolio Holdings Base URL"
+          }
+        }
+      }
+    },
+    "netQtyKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NET QTY:"
+          }
+        }
+      }
+    },
+    "plKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "P&L:"
+          }
+        }
+      }
+    },
+    "profitLossKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profit & Loss*"
+          }
+        }
+      }
+    },
+    "screenTitle" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Holdings"
+          }
+        }
+      }
+    },
+    "todaysProfitLossKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's Profit & Loss*"
+          }
+        }
+      }
+    },
+    "totalInvestmentKey" : {
+      "comment" : "UI text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Investment*"
+          }
+        }
+      }
+    },
+    "unableToFetchPortfolio" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to fetch portfolio"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
